@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "feriados-curiosidades": {
+      "type": "http",
+      "url": "https://localhost-f95c8c3d.deco.host/mcp"
+    }
+  }
+}
